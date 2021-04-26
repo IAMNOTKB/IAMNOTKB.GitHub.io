@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iamnotkb.github.io</id>
     <title>IAMNOTKB的小站</title>
-    <updated>2021-03-06T13:49:17.127Z</updated>
+    <updated>2021-04-26T14:18:36.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iamnotkb.github.io"/>
     <link rel="self" href="https://iamnotkb.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://iamnotkb.github.io/images/avatar.png</logo>
     <icon>https://iamnotkb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, IAMNOTKB的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[江城子·天目]]></title>
+        <id>https://iamnotkb.github.io/post/jiang-cheng-zi-tian-mu/</id>
+        <link href="https://iamnotkb.github.io/post/jiang-cheng-zi-tian-mu/">
+        </link>
+        <updated>2021-04-26T14:08:13.000Z</updated>
+        <content type="html"><![CDATA[<p>人云少年气自狂，负行囊，着轻裳，千丈天目，仍作平地访。山间苔阶任其陡，甘毁伤，又何妨？</p>
+<p>夭矫松柏翠青苍，浴艳阳，寻树王，攀枝揽月，英雄莫能当。待登人生更高处，展长枪，试锋芒。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[补档：一中实验2020届14班老师语录]]></title>
         <id>https://iamnotkb.github.io/post/bu-dang-yi-zhong-shi-yan-2020-jie-14-ban-lao-shi-yu-lu/</id>
